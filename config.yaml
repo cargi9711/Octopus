@@ -1,0 +1,4 @@
+octopus_system:
+  default_arms: 8
+  ink_capacity: 100
+  intelligence_level: high
